@@ -30,4 +30,4 @@ function idMiddleware({ dispatch, getState }) {
 	}
 }
 
-module.exports = idMiddleware
+module.exports = idMiddleware;
